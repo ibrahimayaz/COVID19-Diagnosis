@@ -1,7 +1,8 @@
 # COVID19-Diagnosis
 
 ![Kaggle Image COVID](https://www.pyimagesearch.com/wp-content/uploads/2020/03/covid19_keras_header.jpg)
-[br]
+
+
 In this tutorial, you will learn how to automatically detect COVID-19 in a hand-created X-ray image dataset using Keras, TensorFlow, and Deep Learning.
 
 Like most people in the world right now, I’m genuinely concerned about COVID-19. I find myself constantly analyzing my personal health and wondering if/when I will contract it.
